@@ -27,6 +27,7 @@ To run this application locally, follow these steps:
 
 1. After installing the dependencies, you can start the application using the following command:
 
+   ```bash
     npm run start
 
 This will start the application and begin monitoring the websites specified in the config.json file.
@@ -37,6 +38,7 @@ This will start the application and begin monitoring the websites specified in t
 
 2. Create a .env file in the root directory and configure your environment variables based on the settings provided in test.env.
 
+   ```bash
     cp test.env .env
 
 Edit .env file to match your local configuration.
