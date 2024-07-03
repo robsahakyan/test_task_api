@@ -15,10 +15,12 @@ To run this application locally, follow these steps:
 
 2. Navigate to the project directory:
 
+   ```bash
     cd test_task_api
 
 3. Install dependencies. Use --force due to deprecated module reasons:
 
+   ```bash
     npm install --force
 
 ### 📋 Usage
